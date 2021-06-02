@@ -11,6 +11,7 @@
   <header>Header</header>
   <main>
     <h1>ここにメイン</h1>
+    <h2>2223追加しました</h2>
   </main>
   <footer>Footer</footer>
   <script src="js/scripts.js"></script>
