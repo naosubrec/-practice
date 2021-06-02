@@ -1,0 +1,18 @@
+<!doctype html>
+<html lang="jp">
+<head>
+  <meta charset="utf-8">
+
+  <title>Git Practice Test01</title>
+  <meta name="description" content="練習">
+  <link rel="stylesheet" href="css/styles.css">
+</head>
+<body>
+  <header>Header</header>
+  <main>
+    <h1>ここにメイン</h1>
+  </main>
+  <footer>Footer</footer>
+  <script src="js/scripts.js"></script>
+</body>
+</html>
